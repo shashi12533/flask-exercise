@@ -181,3 +181,11 @@ DELETE /users/<id>
 This will delete the user with the associated `id`. Return a useful `message`, although nothing needs to be specified in the response's `result`.
 
 If the user with the provided `id` cannot be found, return a `404` and a useful `message`.
+
+```
+H A C K 4 I M P A C T
+                    H A C K 4 I M P A C T
+                                        H A C K 4 I M P A C T
+                                                            H A C K 4 I M P A C T
+                                                                                H A C K 4 I M P A C T
+```
